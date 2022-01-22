@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://venngage-wordpress.s3.amazonaws.com/uploads/2018/06/source-instagram-content.png" alt="cover" />
+<img width="100%" height = "250px" src="https://queensway.school/wp-content/uploads/2018/06/Instagram-Banner-Logo1.png" alt="cover" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Anandhu+Ashok)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+My+name+is+Anandhu+ashok.+Thank+You+for+taking+the+time+to+view+my+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
