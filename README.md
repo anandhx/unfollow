@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Anandhu+Ashok)](https://git.io/typing-svg)
+<h3[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Anandhu+Ashok)](https://git.io/typing-svg)</h3>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
 
