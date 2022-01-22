@@ -2,7 +2,7 @@
 <img width="69%" height = "69px" src="https://queensway.school/wp-content/uploads/2018/06/Instagram-Banner-Logo1.png" alt="cover" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C1F725&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+Profile+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232341F7&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+Profile+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
 
