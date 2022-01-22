@@ -60,7 +60,7 @@ python main.py
 pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install ruby -y && pkg install git -y && pkg install php -y && pkg install perl -y && pkg install bash -y && pkg install clang -y && pkg install nano -y && pkg install w3m -y && pkg install figlet -y && pkg install cowsay -y && pkg install curl -y&& pkg install tar -y && pkg install zip -y && pkg install unzip -y && pkg install wget -y && pkg install wcalc -y && pkg install bmon -y && pkg install openssl -y && pkg install cmatrix -y && pkg install openssh -y && apt update && apt upgrade –y
 
 
-
+```
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/anandhx?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
