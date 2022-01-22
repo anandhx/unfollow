@@ -1,9 +1,8 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png" alt="cover" />
+<img width="100%" height = "250px" src="https://venngage-wordpress.s3.amazonaws.com/uploads/2018/06/source-instagram-content.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Anandhu+Ashok)](https://git.io/typing-svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
