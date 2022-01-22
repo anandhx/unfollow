@@ -2,13 +2,10 @@
 <img width="100%" height = "250px" src="https://queensway.school/wp-content/uploads/2018/06/Instagram-Banner-Logo1.png" alt="cover" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+My+name+is+Anandhu+ashok.+Thank+You+for+taking+the+time+to+view+my+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C1F725&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+Profile+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
-</p>
-<div size='20px'> Hi! My name is Anandhu ashok. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
