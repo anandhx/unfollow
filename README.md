@@ -30,6 +30,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
 <a href = 'https://www.github.com/anandhx'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -38,6 +39,26 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
 <br>
+
+# How To Use
+
+### Installation 
+```
+git clone https://github.com/anandhx/unfollow.git
+```
+```
+cd unfollow
+```
+```
+pip install -r requirements.txt
+```
+```
+python main.py
+```
+### Termux Error!
+```
+pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install ruby -y && pkg install git -y && pkg install php -y && pkg install perl -y && pkg install bash -y && pkg install clang -y && pkg install nano -y && pkg install w3m -y && pkg install figlet -y && pkg install cowsay -y && pkg install curl -y&& pkg install tar -y && pkg install zip -y && pkg install unzip -y && pkg install wget -y && pkg install wcalc -y && pkg install bmon -y && pkg install openssl -y && pkg install cmatrix -y && pkg install openssh -y && apt update && apt upgrade –y
+
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
