@@ -7,7 +7,7 @@
 
 
 
-<h2> About Me <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 500px></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></h2>
 
 <img width="69%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
