@@ -8,7 +8,7 @@
   
 
  
-[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://github.com/anandhx/Robotron)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232341F7&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+Profile+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
